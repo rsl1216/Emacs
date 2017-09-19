@@ -1,0 +1,110 @@
+#+Startup: hidestars
+#+SEQ_TODO:  TODO(t) NEXT(n) INPROGRESS(i) WAITING(w) SOMEDAY(s) PROJECT(p) |  DONE(d) CANCELLED(c) ONHOLD(h)
+#+TAGS: PHONE(p) COMPUTER(c)
+
+
+FY18 Goals
+
+Performance Expectations
+Development Objectives
+Innovation Idea 
+
+
+* PROJECT Evolve the PDO to support bimodal IT and digital business objectives. :PHONE:
+  
+  SCHEDULED: <2017-09-01 Fri>
+  
+  DEADLINE: <2017-12-29 Fri>
+  
+  Description: Continually review processes, technologies, 
+  culture, etc., to ensure strategic goals and initiatives drive toward a future reality. 
+  Identify and implement methods that will allow our division to evolve and keep pace with an ever
+  changing market. New products introduced in FY18 will include at 
+  least one main feature driven by future technology. 
+  
+  Category: Performance Expecations
+
+*** list [4/4]
+    
+    - [X] get this
+    - [X] get this
+    - [X] get this
+    - [X] get this
+
+* PROJECT Provide leadership team with simple, unambiguous, and actionable information
+  
+  SCHEDULED: <2017-09-01 Fri>
+  
+  DEADLINE: <2017-12-29 Fri>
+  
+  Description: Meet  with project sponsors and stakeholders at the start of any project to nail down the precise information each is
+  looking for regarding KPIs and ongoing project insights. Ensure the right visuals are in place to offer each area with relevant 
+  to-the-point dashboards that can provide at-a-glance takeaways. Goal will be met by leveraging tools that capture pertinent 
+  real-time data from multiple sources and display it visually so others can quickly and easily access KPIs in an instant. 
+  
+  Category: Performance Expecations
+
+* PROJECT Establish SWOT analysis process for decision making and portfolio optimization
+  
+  SCHEDULED: <2017-09-01 Fri>
+  
+  DEADLINE: <2017-12-29 Fri>
+  
+  Description: Train key resources to execute S.W.O.T. process on current assets. Document findings and 
+  Employ the use of resulting data points to supplement management's intuitive judgment in making governance decisions
+  
+  Category: Innovation Idea
+
+* PROJECT Establish a process for Identifying/documenting strategic goals and objectives.
+  
+  SCHEDULED: <2017-09-01 Fri>
+  
+  DEADLINE: <2017-12-29 Fri>
+  
+  Description: Establish a process for making strategic priorities clear and visible utilizing JIRA
+  as the source of truth, allowing for full traceability from strategy to execution. 
+  
+  Category: Performance Expecations
+
+* PROJECT Build a framework that shows how project activity aligns with strategic enterprise objectives.  
+  
+  SCHEDULED: <2017-09-01 Fri>
+  
+  DEADLINE: <2017-12-29 Fri>
+  
+  Description: Are the right activities performed to support the strategic goals?
+  Do the decisions optimize the benifits with limited resources?
+  Is the right project information available to make optimal portfolio decisions?
+  Do the decisions at the portfolio level support the projects adequately?
+  
+  Category: Performance Expecations
+
+** TODO Do Something
+   DEADLINE: <2017-10-30 Mon> SCHEDULED: <2017-10-04 Wed>
+
+* PROJECT Bring visibility to PDO execution by the development and use of clear and visible launch/release metrics
+
+  SCHEDULED: <2017-09-01 Fri>
+  
+  DEADLINE: <2017-12-29 Fri>
+  
+  Description: Develop and comunicate key KPIs based on the aggregation of JIRA line items into a
+  clear status dashboard providing actionable insights. 
+  
+  Category: Innovation Idea
+
+* PROJECT Provide leadership team with simple, unambiguous, and actionable information
+  
+  SCHEDULED: <2017-09-01 Fri>
+  
+  DEADLINE: <2017-12-29 Fri>
+  
+  Description: Meet with project sponsors, executives, stakeholders, and teams 
+  at the start of any project and nail down the precise
+  information each is looking for regarding KPIs and ongoing project insights. 
+  GEnsure the right visuals are in place to offer each area with relevant to-the-point dashboards 
+  that can provide at-a-glance takeaways. Goal will be met by leveraging tools that 
+  capture pertinent real-time data from multiple sources and display it visually so
+  others can quickly and easily access KPIs in an instant. 
+  
+  Category: Performance Expecations
