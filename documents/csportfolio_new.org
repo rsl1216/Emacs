@@ -1,5 +1,5 @@
-#+STARTUP: indent
-#+STARTUP: hidestars
+#+Startup: Indent
+#+Startup: hidestars
 #+TAGS: PHONE(p) COMPUTER(c)
 
 * Idea Management
@@ -22,11 +22,13 @@
 
 *** Analytics
 
-VISION:
-What should happen?
+**** Drivers
 
-MISSION:
-Why should it happen?
+- VISION  :: What should happen?
+- MISSION :: Why should it happen?
+
+
+**** Timeline
 
 PROPOSED START:
 ACTUAL START:        
@@ -36,6 +38,7 @@ ACTUAL END:
 
 STATUS:
 Where are we?
+
 
 **** Short Term Objectives
 
@@ -108,12 +111,13 @@ SCHEDULED: <2017-09-01 Fri> DEADLINE: <2017-10-31 Tue>
 
 **** Scope
 
-***** ICA/PA Usability Bundle
-***** PA Panel Parity Bundle
-***** MUA Patient Analytics Bundle
-***** TD-SLA Integration
-***** Lab Aggregation Performance Improvements
-***** Jasper 6.4 Upgrade
+- ICA/PA Usability Bundle
+- PA Panel Parity Bundle
+- MUA Patient Analytics Bundle
+- TD-SLA Integration
+- Lab Aggregation Performance Improvements
+- Jasper 6.4 Upgrade
+
 **** Status
 
 **** Distributions
