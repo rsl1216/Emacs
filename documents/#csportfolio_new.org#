@@ -14,7 +14,7 @@
 
 ** Next This needs to happen at the same time. 
    comments: something else needs to be done. 
-
+   
 
 * Strategy Management
 
@@ -68,6 +68,10 @@ ACTUAL END:
 STATUS:
 Where are we?
 
+
+*** Premier Integrations
+
+
 **** Short Term Objectives
 
 ***** Comprehensive Medication Management
@@ -76,6 +80,7 @@ Description:
 What is the scope this objective
 
 ****** Initiatives
+
 
 ******* Initiative 1
 
@@ -89,7 +94,47 @@ What is the scope this objective
 
 ** Major Releases
 
-*** Fall '17 
+*** STARTED Fall '17 
+
+SCHEDULED: <2017-09-01 Fri> DEADLINE: <2017-10-31 Tue>
+
+| CC Prop  | CC Act   | Ver Prop | Ver Act  | Val Prop | Val Act | Cont Prop | Cont Act | GA Prop  | GA Act  |
+| 08/31/17 |          | 09/21/17 | 09/29/17 | 10/12/17 |         | 10/26/17  |          | 10/31/17 |         |
+
+**** Milestones
+
+***** TODO Code Complete DEADLINE: <2017-08-31 Thu> Actual 09/08/2017
+***** STARTED Verification 
+
+**** Scope
+
+***** ICA/PA Usability Bundle
+***** PA Panel Parity Bundle
+***** MUA Patient Analytics Bundle
+***** TD-SLA Integration
+***** Lab Aggregation Performance Improvements
+***** Jasper 6.4 Upgrade
+**** Status
+
+**** Distributions
+
+***** PremierConnect
+
+****** Proposed Availibility
+
+DEADLINE: <2017-11-16 Thu>
+
+****** Actual Availibility
+
+DEADLINE: <2017-11-16 Thu>
+
+***** On-Premise
+
+
+****** Proposed Availibility
+
+
+****** Actual Availibility
 
 
 *** Spring '18
